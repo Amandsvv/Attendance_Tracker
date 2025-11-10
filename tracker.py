@@ -12,8 +12,16 @@ sep()
 print("\n")
 
 student_record = {}
-total_Student = int(input("Enter total no. of students : "))
+total_Student = input("Enter total no. of students : ")
+if(not total_Student.isdigit() or total_Student <= 0):
+    sep()
+    print("Please enter a valid value")
+    sep()
+    exit(0)
+
+
 assiglum = ["st", "nd", "rd", 'th']
+total_Student = int(total_Student)
 sep()
 
 i=0
