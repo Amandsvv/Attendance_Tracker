@@ -1,5 +1,6 @@
 # Name : Aman Kumar
-#Date : 11 Nov, 2025
+# Roll : 2501940051
+# Date : 11 Nov, 2025
 # Assignment Title : Python-based Command-Line Attendance Tracker
 
 def sep():
@@ -13,7 +14,7 @@ print("\n")
 
 student_record = {}
 total_Student = input("Enter total no. of students : ")
-if(not total_Student.isdigit() or total_Student <= 0):
+if(not total_Student.isdigit() or (int)(total_Student) <= 0):
     sep()
     print("Please enter a valid value")
     sep()
@@ -78,6 +79,7 @@ if(choice == "Y"):
         file.write('-'*50+'\n')
         file.write(f"Total Students Present: {total_Student}\n")
         file.write('-'*50+'\n')
+    print("--Records Successfully Saved--")
 else:
     print("ThankYou!")
 

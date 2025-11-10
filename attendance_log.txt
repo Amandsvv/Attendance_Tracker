@@ -1,10 +1,8 @@
 --------------------------------------------------
 Student Name	Check-In-Time
 --------------------------------------------------
-Aman Kumar	09:15 AM
-Saksnn	55
-fsf	367
-sdf	356
+Aman Kumar	09:10 AM
+Sonia lknvl	09:15 AM
 --------------------------------------------------
-Total Students Present: 4
+Total Students Present: 2
 --------------------------------------------------
