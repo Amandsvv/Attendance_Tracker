@@ -1,8 +1,9 @@
 --------------------------------------------------
 Student Name	Check-In-Time
 --------------------------------------------------
-Aman Kumar	09:10 AM
-Sonia lknvl	09:15 AM
+Aman Kumar	12:00 AM
+Sadgyan Singh	12:00 Am
+Yashwant giri	12:00 AM
 --------------------------------------------------
-Total Students Present: 2
+Total Students Present: 3
 --------------------------------------------------
